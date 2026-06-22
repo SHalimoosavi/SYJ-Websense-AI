@@ -1,0 +1,6 @@
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+rich>=13.9.0
+python-dotenv>=1.0.1
+groq>=0.31.0
+google-generativeai>=0.8.5
