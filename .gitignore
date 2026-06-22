@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Android / Termux
+.storage/
+
+# OS
+.DS_Store
+Thumbs.db
